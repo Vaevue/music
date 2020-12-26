@@ -1,0 +1,2 @@
+webpackJsonp([25],{f7FK:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"wrapper"},[e("router-link",{staticClass:"phoneLogin",attrs:{to:"phone",tag:"button"}},[this._v("手机号登陆")])],1)},staticRenderFns:[]};var r=n("C7Lr")({name:"loginPage"},a,!1,function(t){n("iHao")},"data-v-5e91d0c6",null);e.default=r.exports},iHao:function(t,e){}});
+//# sourceMappingURL=25.8bce8dce6343d0f84c86.js.map
